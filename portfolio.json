@@ -1,0 +1,186 @@
+{
+  "id": "48b271ea-bf13-4bfe-b9d6-558934de7a3c",
+  "name": "Anthony Zappala",
+  "title": "Chemical Engineer",
+  "bio": "Recent chemical engineering graduate passionate about sustainability, process design, and automation.",
+  "aboutText": "A recent Chemical Engineering graduate from Northeastern University with a passion for developing innovative solutions that connect traditional chemical processes with modern, sustainable engineering practices. My experience spans process design, simulation, and optimization, with a strong focus on sustainability and energy efficiency.\n\nUsing advanced simulation tools and data-driven approaches, I work on challenges spanning electrochemical systems and industrial process design. My projects combine technical analysis with practical, results-oriented strategies, drawing from both academic research and industry experience gained during internships and collaborative work.",
+  "projectsDescription": "Explore some of my recent work and personal projects that showcase my skills and passion for development.",
+  "contactIntro": "I'm always interested in discussing new opportunities or answering questions about my work. Feel free to reach out!",
+  "footerDescriptors": [
+    "Automation",
+    "Process Improvement",
+    "Sustainability"
+  ],
+  "theme": "default",
+  "themeColors": {
+    "text": "#1F2937",
+    "accent": "#F3F4F6",
+    "primary": "#0B3D91",
+    "secondary": "#17A2B8",
+    "background": "#FFFFFF"
+  },
+  "headshotImage": "https://ik.imagekit.io/quickFolio99/users/8cd60fd3-0b7e-4453-b679-cac8b6832a05/48b271ea-bf13-4bfe-b9d6-558934de7a3c/images/hero/portfolio-1759006343264_Qs66LHQAN.JPG?updatedAt=1759006344762",
+  "resumeUrl": "https://ik.imagekit.io/quickFolio99/users/8cd60fd3-0b7e-4453-b679-cac8b6832a05/48b271ea-bf13-4bfe-b9d6-558934de7a3c/resume/portfolio-pdf-1758903366777_icVEmWDCB.pdf",
+  "resumeFilename": null,
+  "referencesUrl": "https://ik.imagekit.io/quickFolio99/users/8cd60fd3-0b7e-4453-b679-cac8b6832a05/48b271ea-bf13-4bfe-b9d6-558934de7a3c/references/portfolio-references.pdf",
+  "referencesFilename": null,
+  "skillsDisplayMode": "categories",
+  "sectionOrder": [
+    "hero",
+    "about",
+    "projects",
+    "timeline",
+    "contact",
+    "footer",
+    "theme"
+  ],
+  "projects": [
+    {
+      "id": "63025ca2-bd27-41d8-8588-0622bfd321d3",
+      "slug": "electrochemical-nutrient-recovery-from-wastewater",
+      "title": "Electrochemical Nutrient Recovery from Wastewater",
+      "summary": "Engineered an annular electrochemical reactor system with a rotating magnesium electrode to recover nitrogen and phosphorus from wastewater as struvite, a slow-release fertilizer. Integrated process modeling, safety analysis (FMEA), and economic evaluation to optimize yield and energy use, projecting $1.5 MM/year revenue potential.",
+      "description": null,
+      "headerDescription": "Engineered an annular electrochemical reactor with a rotating magnesium electrode to recover nitrogen and phosphorus from anaerobic digester sidestreams as struvite, a slow-release fertilizer.",
+      "pageSummary": "This comprehensive capstone project focused on developing a sustainable solution for nutrient recovery from wastewater streams. The project involved designing and optimizing an innovative electrochemical reactor system that transforms waste into valuable fertilizer products.\n\nThe reactor design featured a unique annular configuration with a rotating magnesium electrode, enabling efficient electrochemical precipitation of struvite (MgNH₄PO₄·6H₂O) from anaerobic digester sidestreams. This approach addresses two critical environmental challenges: wastewater treatment and sustainable fertilizer production.\n\nKey technical achievements included comprehensive process modeling using a custom Excel model to optimize reactor conditions, detailed safety analysis through Failure Mode and Effects Analysis (FMEA), and thorough economic evaluation demonstrating commercial viability. The integrated approach considered energy consumption, yield optimization, and downstream processing requirements.\n\nThe economic analysis projected significant revenue potential of $1.5 million per year, making this technology commercially attractive for wastewater treatment facilities. The project demonstrated how chemical engineering principles can be applied to create circular economy solutions that benefit both the environment and industry.",
+      "image": "https://ik.imagekit.io/quickFolio99/users/8cd60fd3-0b7e-4453-b679-cac8b6832a05/48b271ea-bf13-4bfe-b9d6-558934de7a3c/images/project-cb5cc5d1-152f-4368-a93b-985b31200025/portfolio-1759190094951_Xh0VksqMW.png?updatedAt=1759190095589",
+      "imageStyle": "contain",
+      "imageBg": "white",
+      "githubUrl": "",
+      "liveUrl": "",
+      "type": "Capstone",
+      "year": "2025",
+      "duration": "4 months",
+      "detailedDescription": "",
+      "displayOrder": 0,
+      "skills": [
+        "Electrochemistry",
+        "Excel",
+        "Process Design",
+        "FMEA",
+        "Economic Analysis"
+      ],
+      "images": [
+        {
+          "src": "https://ik.imagekit.io/quickFolio99/users/8cd60fd3-0b7e-4453-b679-cac8b6832a05/48b271ea-bf13-4bfe-b9d6-558934de7a3c/images/project-cb5cc5d1-152f-4368-a93b-985b31200025/portfolio-1759190068069_65ZbGx08I.png?updatedAt=1759190068865",
+          "alt": "",
+          "displayOrder": 0,
+          "imageStyle": "contain",
+          "imageBg": "white"
+        },
+        {
+          "src": "https://ik.imagekit.io/quickFolio99/users/8cd60fd3-0b7e-4453-b679-cac8b6832a05/48b271ea-bf13-4bfe-b9d6-558934de7a3c/images/project-cb5cc5d1-152f-4368-a93b-985b31200025/portfolio-1759190778168_xcpaHiG13W.png?updatedAt=1759190779018",
+          "alt": "",
+          "displayOrder": 1,
+          "imageStyle": "contain",
+          "imageBg": "white"
+        }
+      ]
+    },
+    {
+      "id": "9ab215c8-45e1-4c5a-a006-a76cbe76879f",
+      "slug": "new-project",
+      "title": "New Project",
+      "summary": "",
+      "description": null,
+      "headerDescription": null,
+      "pageSummary": null,
+      "image": "",
+      "imageStyle": "cover",
+      "imageBg": "white",
+      "githubUrl": "",
+      "liveUrl": "",
+      "type": "",
+      "year": "",
+      "duration": "",
+      "detailedDescription": "",
+      "displayOrder": 1,
+      "skills": [],
+      "images": []
+    }
+  ],
+  "timeline": [
+    {
+      "id": "db889e67-be35-4610-b672-88377840a312",
+      "year": "2021-2022",
+      "title": "Research Assistant",
+      "organization": "Koppes LNNR Lab",
+      "type": "research",
+      "description": "Designed and analyzed neuron signals in custom organ-on-chips. Earned 2 PEAK awards to complete research projects for organ-on-chip design."
+    },
+    {
+      "id": "65db2b3b-0fea-4182-869b-619649d80d1e",
+      "year": "2021-2025",
+      "title": "Chemical Engineering Graduate",
+      "organization": "Northeastern University",
+      "type": "education",
+      "description": "Bachelor of Science in Chemical Engineering, Summa Cum Laude, Honors."
+    },
+    {
+      "id": "83389d8b-5c1c-4207-afd7-a269200dcd0a",
+      "year": "2023",
+      "title": "Electrochemical Engineering Co-op",
+      "organization": "24M Technologies",
+      "type": "experience",
+      "description": "Screened and tested silicon-based battery materials, optimized slurry formulations, and automated data analysis with custom Python scripts."
+    },
+    {
+      "id": "8afc1c07-883b-4196-88fd-6d91b0f5f014",
+      "year": "2024-2025",
+      "title": "Process Engineering Co-op",
+      "organization": "Technip Energies",
+      "type": "experience",
+      "description": "Reviewed key technical documents, performed equipment calculations, and streamlined process workflow with Python and SQL."
+    }
+  ],
+  "skills": {
+    "categories": [
+      {
+        "id": "technical",
+        "name": "Technical Skills",
+        "displayOrder": 0,
+        "icon": "code"
+      },
+      {
+        "id": "engineering",
+        "name": "Engineering Expertise",
+        "displayOrder": 1,
+        "icon": "tool"
+      }
+    ],
+    "skills": {
+      "engineering": [
+        "skill 2"
+      ],
+      "technical": [
+        "skill 1"
+      ]
+    }
+  },
+  "contact": {
+    "email": "email@email.com",
+    "phone": "(508) 530-8842",
+    "linkedin": "https://linkedin.com/in/anthony-zappala",
+    "areasOfInterest": [
+      "Process Design",
+      "Sustainability",
+      "AI"
+    ]
+  },
+  "links": {
+    "github": "",
+    "website": ""
+  },
+  "references": [
+    {
+      "id": "d89173b0-fb14-4956-b0ca-6bac0ff2f38b",
+      "name": "Dr. Xiaoming Liu, Ph.D.",
+      "title": "Manager of Advanced R&D",
+      "company": "24M Technologies",
+      "email": "xliu@24-m.com",
+      "phone": null,
+      "relationship": "Co-op Manager",
+      "testimonial": null
+    }
+  ]
+}
